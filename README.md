@@ -2,7 +2,7 @@
 
 This is a frontend app, part of [Example Voting App](https://github.com/schoolofdevops/example-voting-app).  
 
-To build and run this app as a container, 
+To build and run1 this app as a container, 
 
   * use `python:alpine3.17` container base image
   * map/expose `container port 80`
